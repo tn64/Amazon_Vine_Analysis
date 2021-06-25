@@ -61,7 +61,7 @@ The number of Amazon Vine reviewers (94) is significantly smaller than the numbe
 reviewers (40,471). It would be important to compare the measures of central tendency for the
 two groups to further clarify any bias.
 
-Also, these analyses should be performed for the other review areas (i.e., other than 
+3. Finally, these analyses should be performed for the other review areas (i.e., other than 
 the video games analyzed here) to test for bias across the Amazon Vine platform.
 
 
