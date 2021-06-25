@@ -17,7 +17,7 @@ to the program by participating vendors."</a> It is important, therefore, to tes
 the part of their reviewers (Amazon Voices). We can initially test for bias by comparing the reviews of 
 Amazon Vine reviewers and non-paid Amazon reviewers on the Amazon platform.
 
-The analysis here examines the reviews of video games on the Amazon platform.
+**Note: The analysis here examines the reviews of video games on the Amazon platform.**
 
 Resources Used:
 - Amazon RDS
