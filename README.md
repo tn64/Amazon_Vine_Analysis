@@ -53,10 +53,10 @@ a 5-star review 38.70% of the time.
 <img src="https://github.com/tn64/Amazon_Vine_Analysis/blob/main/Resources/percentage_unpaid_5-star.png"><br>
 
 ## Summary
-1. Is There a Bias?
+1. Is There a Bias?</br>
 This analysis would indicate a positivity bias on the part of Amazon Vine members.
 
-2. Additional Analysis
+2. Additional Analysis</br>
 The number of Amazon Vine reviewers (94) is significantly smaller than the number of non-paid 
 reviewers (40,471). It would be important to compare the measures of central tendency for the
 two groups to further clarify any bias.
