@@ -19,7 +19,7 @@ Amazon Vine reviewers and non-paid Amazon reviewers on the Amazon platform.
 
 **Note: The analysis here examines the reviews of video games on the Amazon platform.**
 
-Resources Used:
+## Tools & Resources Used:
 - Amazon RDS
 - Postgres/pgAdmin
 - Google Colab
