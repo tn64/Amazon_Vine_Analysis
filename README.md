@@ -3,12 +3,12 @@
 # Analysis of Amazon Vine Reviews
 
 ## Overview
-Ratings quality is only growing in importance. Because of the growth of ratings platforms and
-consumers' desires to get the most value for thier money, many companies both rely on good
-ratings from third party websites and from reviews on their own sites. Amazon is the top retail e-commerce company
-in the US, so their reviews are widely consulted and, to protect consumers, should be unbiased.
+Rating quality is only growing in importance. Because of the growth of rating platforms and consumers' 
+desires to get the most value for their money, many companies both rely on good ratings from third-party 
+websites and from reviews on their own sites. Amazon is the top retail e-commerce company in the US, so 
+their reviews are widely consulted and, to protect consumers, should be unbiased.
 
-Amazon's <a href="https://www.amazon.com/gp/vine/help">Amazon Vine</a> program is an invitation only 
+Amazon's <a href="https://www.amazon.com/gp/vine/help">Amazon Vine</a> program is an invitation-only 
 review program that the company claims "invites the most trusted reviewers on Amazon to post opinions 
 about new and pre-release items to help their fellow customers make informed purchase decisions." 
 While Vine Voices are not paid in cash for their reviews, they are paid by being provided with 
